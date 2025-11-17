@@ -18,13 +18,18 @@ A simple Python tool that evaluates the strength of your password based on:
 
    ```bash
    python password_checker.py
-
-## :brain:Example Output
-
-   ```bash
-   Enter your password: Cyber@2025
-   Password Strength: Very Strong
    ```
+
+## :brain::scroll:Example Output
+
+Below are real test results from the Password Strength Checker
+
+| Password Example | Strength | Screenshot |
+|----------|--------------|-------------|
+| 123456 | Very Weak | ![ScreenshotTest1](images/ScreenshotTest1.png) |
+| cyber | Weak | ![ScreenshotTest2](images/ScreenshotTest2.png) |
+| Cyber2025 | Moderate | ![ScreenshotTest3](images/ScreenshotTest3.png) |
+| TSTCsecure!| Strong | ![ScreenshotTest4](images/ScreenshotTest4.png) |
 
 ## :gear:Technologies Used
 
